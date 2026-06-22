@@ -6,6 +6,10 @@ This project demonstrates a comprehensive data warehousing , from building a dat
 ---
 ## 🏗️ Data Architecture
 
+<p align="center">
+  <img src="docs/data_architecture.PNG" alt="Medallion Data Architecture" width="800">
+</p>
+
 
 
 1. **Bronze Layer**: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
